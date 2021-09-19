@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "8007f26a7b8b6448",
+    "type": "split",
+    "children": [
+      {
+        "id": "daf547b32d58ad8b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "nota.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53930276b7fc83b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "89332ea0b170270a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2e4f7f4a5c91f58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "587b39db633c7b45",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6e8f0721bfa89e84",
+    "type": "split",
+    "children": [
+      {
+        "id": "9aac829f127a9223",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2157dcc9acefe5f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "nota.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "daf547b32d58ad8b",
+  "lastOpenFiles": [
+    "nota.md",
+    "galeria.md",
+    "_drafts/trash/2020-12-06-mi-problema-con-facebook.md",
+    "_drafts/trash/2020-11-17-meme.md",
+    "_drafts/2020-12-26-herramientas-privacidad-y-seguridad-en-internet.md",
+    "yosoy.md",
+    "README.md",
+    "FAQ.md"
+  ]
+}

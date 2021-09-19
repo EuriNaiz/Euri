@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "b6fdaaad22ddd558",
+    "type": "split",
+    "children": [
+      {
+        "id": "2685a84bf0c3a942",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-06-04-Mail.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "234b9b973dc9bfdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3457618da09f28c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab74b19710b7e604",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2743dae54cbcd978",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "80172a4b5b663fca",
+    "type": "split",
+    "children": [
+      {
+        "id": "622bba7267ac94ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36942374b3ae2e99",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2021-06-04-Mail.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2685a84bf0c3a942",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "2020-11-27-licencias.md"
+  ]
+}
