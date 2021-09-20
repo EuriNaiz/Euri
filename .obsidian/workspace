@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "nota.md",
+            "file": "_posts/2021-06-04-Mail.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nota.md",
+                "file": "_posts/2021-06-04-Mail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "daf547b32d58ad8b",
   "lastOpenFiles": [
+    "_posts/2021-06-04-Mail.md",
     "nota.md",
     "galeria.md",
     "_drafts/trash/2020-12-06-mi-problema-con-facebook.md",
