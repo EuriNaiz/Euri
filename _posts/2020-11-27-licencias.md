@@ -17,6 +17,10 @@ category: licencias
 author: Euri
 externalLink: false
 permalink: "/licencias/"
+comments:
+  host: floss.social
+  username: EuriNaiz
+  id: 108298625680947266
 ---
 
 # Licencias del sitio.
