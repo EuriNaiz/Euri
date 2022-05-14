@@ -50,7 +50,12 @@ layout: page
 {% endif %}
 
 
-{% include telegram.html %}
+{%- if page.comments -%}
+    {%- include fediverse_comments.html -%}
+{%- endif -%}
+ 
+
+<!-- {% include telegram.html %} -->
 
 
 <!-- {% if site.disqus.categories contains page.category %}
