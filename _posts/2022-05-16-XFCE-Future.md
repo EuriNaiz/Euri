@@ -22,14 +22,12 @@ tag:
 - Iconography
 image: /assets/images/media/XFCE_Future.png
 headerImage: true
-series: false
 hidden: false
 description: "XFCE, GTK and some problematics found in the GNU + Linux desktop, some solutions for the XFCE's future as DE and/or platform."
 category: blog
 author: Euri
 externalLink: false
 permalink: "/blog/GTK_HIGs_And_The_XFCE_Future/"
-blog: true
 ---
 
 # GTK, HIGs & The XFCE's Future
