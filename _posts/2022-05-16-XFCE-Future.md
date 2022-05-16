@@ -25,7 +25,6 @@ headerImage: true
 description: "XFCE, GTK and some problematics found in the GNU + Linux desktop, some solutions for the XFCE's future as DE and/or platform."
 category: blog
 author: Euri
-permalink: "/blog/GTK_HIGs_And_The_XFCE_Future/"
 ---
 
 # GTK, HIGs & The XFCE's Future
