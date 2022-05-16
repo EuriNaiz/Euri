@@ -29,6 +29,7 @@ category: blog
 author: Euri
 externalLink: false
 permalink: "/blog/GTK_HIGs_And_The_XFCE_Future/"
+blog: true
 ---
 
 # GTK, HIGs & The XFCE's Future
