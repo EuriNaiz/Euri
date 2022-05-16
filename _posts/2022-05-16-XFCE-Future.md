@@ -25,7 +25,7 @@ headerImage: true
 series: false
 hidden: false # true don't count this post in blog pagination
 description: "XFCE, GTK and some problematics found in the GNU + Linux desktop, some solutions for the XFCE's future as DE and/or platform."
-category: Linux
+category: blog
 author: Euri
 externalLink: false
 permalink: "/blog/GTK_HIGs_And_The_XFCE_Future/"
