@@ -31,7 +31,7 @@ permalink: "/blog/GTK-HIGs-And-The-XFCE-Future/"
 comments:
   host: floss.social
   username: EuriNaiz
-  id: 
+  id: 108315434239919147
 ---
 
 # GTK, HIGs & The XFCE's Future
