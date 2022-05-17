@@ -27,7 +27,7 @@ description: "XFCE, GTK and some problematics found in the GNU + Linux desktop, 
 category: blog
 author: Euri
 externalLink: false
-permalink: "/mail/"
+permalink: "/blog/GTK-HIGs-And-The-XFCE-Future/"
 comments:
   host: floss.social
   username: EuriNaiz
