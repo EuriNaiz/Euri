@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Series
+title: Articulos
 ---
 <section class="list">
     {% for post in site.posts %}
-        {% if post.series %}
+        {% if post.articulos %}
             <div class="item {% if post.star %}star{% endif %}">
                 <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
-                    <aside><time datetime="{{ post.date | date:"%d/%m/%Y" }}">{{ post.date | date: "%d/%m/%Y" }}</time></aside>
+                    <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%d-%m-%Y" }}</time></aside>
                     <h3 class="title">{{ post.title }}</h3>
                 </a>
             </div>

@@ -20,11 +20,18 @@ tag:
 - Mate
 - "GTK Library"
 - Iconography
+articulos: true
 image: /assets/images/media/XFCE_Future.png
 headerImage: true
 description: "XFCE, GTK and some problematics found in the GNU + Linux desktop, some solutions for the XFCE's future as DE and/or platform."
 category: blog
 author: Euri
+externalLink: false
+permalink: "/mail/"
+comments:
+  host: floss.social
+  username: EuriNaiz
+  id: 
 ---
 
 # GTK, HIGs & The XFCE's Future
